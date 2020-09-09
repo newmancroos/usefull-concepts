@@ -1,0 +1,13 @@
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.exe
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.deps.json
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.runtimeconfig.json
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.runtimeconfig.dev.json
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.dll
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\bin\Debug\netcoreapp3.1\FireAndForget.pdb
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.csprojAssemblyReference.cache
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.csproj.CoreCompileInputs.cache
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.AssemblyInfoInputs.cache
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.AssemblyInfo.cs
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.dll
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.pdb
+C:\Projects\Git\usefull-concepts\FireAndForget\FireAndForget\obj\Debug\netcoreapp3.1\FireAndForget.genruntimeconfig.cache
