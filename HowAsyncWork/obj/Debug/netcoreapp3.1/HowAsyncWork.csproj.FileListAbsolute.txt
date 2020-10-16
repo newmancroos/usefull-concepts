@@ -1,0 +1,13 @@
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.exe
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.deps.json
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.runtimeconfig.json
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.runtimeconfig.dev.json
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.dll
+C:\Projects\Git\usefull-concepts\HowAsyncWork\bin\Debug\netcoreapp3.1\HowAsyncWork.pdb
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.csprojAssemblyReference.cache
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.csproj.CoreCompileInputs.cache
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.AssemblyInfoInputs.cache
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.AssemblyInfo.cs
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.dll
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.pdb
+C:\Projects\Git\usefull-concepts\HowAsyncWork\obj\Debug\netcoreapp3.1\HowAsyncWork.genruntimeconfig.cache
